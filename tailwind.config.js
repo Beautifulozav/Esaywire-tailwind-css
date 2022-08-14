@@ -20,6 +20,8 @@ module.exports = {
         'add':"#F0F0F0",
         'home':"#055D79v",
         'ho':"#055D79",
+        'wa':"#36D782",
+
       }
     },
   },
